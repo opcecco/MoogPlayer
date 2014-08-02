@@ -1,0 +1,66 @@
+# Precede comments with pound symbol
+# Feel free to leave blank lines and spaces for organization
+# I like to put every measure on a new line
+
+# Use / as rest
+# Use ~ for tab key
+# Set variables with preceding $
+
+# Mario Theme
+
+$speed = 80
+
+o o / o / u o /
+[ / / / r / / /
+
+u / / r / / w /
+/ t / y / 6 t /
+r o / [ ] / 0 [
+/ o / u i y / /
+
+u / / r / / w /
+/ t / y / 6 t /
+r o / [ ] / 0 [
+/ o / u i y / /
+
+/ / [ p 0 i / o
+/ r t u / t u i
+/ / [ p 0 i / o
+/ ~ / ~ ~ / / /
+
+/ / [ p 0 i / o
+/ r t u / t u i
+/ / 9 / / i / /
+u / / / / / / /
+
+u u / u / u i /
+o u / t r / / /
+u u / u / u i /
+o / / / / / / /
+
+u u / u / u i /
+o u / t r / / /
+o o / o / u o /
+[ / / / r / / /
+
+o u / r / / 5 /
+t 0 / 0 t / / /
+y ] / ] ] [ / 0
+o u / t r / / /
+
+o u / r / / 5 /
+t 0 / 0 t / / /
+y 0 / 0 0 o / i
+u / / / / / / /
+
+o u / r / / 5 /
+t 0 / 0 t / / /
+y ] / ] ] [ / 0
+o u / t r / / /
+
+o u / r / / 5 /
+t 0 / 0 t / / /
+y 0 / 0 0 o / i
+u / / / / / / /
+
+# End of song yay!

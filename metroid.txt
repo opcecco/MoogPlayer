@@ -1,0 +1,18 @@
+# Precede comments with pound symbol
+# Feel free to leave blank lines and spaces for organization
+# I like to put every measure on a new line
+
+# Use / as rest
+# Use ~ for tab key
+# Set variables with preceding $
+
+# Metroid Item Aquisition
+
+$speed = 70
+
+y / r / t / y /
+8 / t / w / t /
+i / y / r / w /
+e / / / / / / /
+
+# End of song yay!

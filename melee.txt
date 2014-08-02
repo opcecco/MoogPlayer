@@ -1,0 +1,133 @@
+# Precede comments with pound symbol
+# Feel free to leave blank lines and spaces for organization
+# I like to put every measure on a new line
+
+# Use / as rest
+# Use ~ for tab key
+# Set variables with preceding $
+
+# Smash Bros. Melee Theme
+
+$speed = 50
+
+t / w t o / / /
+/ / t / o / [ /
+p / i / t / / /
+/ / / / / / t y
+
+u / / / / / / /
+/ / t / u / o /
+i / / / / / / /
+/ / / / / / / /
+
+t / w t o / / /
+/ / t / o / [ /
+p / i / t / / /
+/ / / / / / t y
+
+u / / / / / / /
+/ / / / / / / /
+i / / / / / / /
+/ / w / / / w /
+
+t / w t o / / /
+/ / t / o / [ /
+p / i / t / / /
+/ / / / / / t y
+
+u / / / / / / /
+/ / t / u / o /
+i / / / / / / /
+/ / / / / / / /
+
+t / w t o / / /
+/ / t / o / [ /
+p / i / t / / /
+/ / / / / / t y
+
+u / / / / / / /
+/ / / / / / w e
+r / / / / / i o
+p / / / / / / /
+
+y / r y [ / / /
+/ / p / o / i /
+i / 8 / 8 / / /
+/ / / / t / / /
+
+y / / / / / i /
+[ / / p / / o /
+] / / / / / / /
+/ / / / / / / /
+
+i / 6 i = / / /
+/ / ] / [ / 0 /
+0 / o / o / / /
+/ / / / u / / /
+
+0 / / / / / / /
+0 / / [ / / ] /
+/ [ / / / / / /
+/ / / / / / / /
+
+y / r y [ / / /
+/ / p / o / i /
+i / 8 / 8 / / /
+/ / / / t / / /
+
+y / / / / / i /
+[ / / p / / o /
+] / / / / / / /
+/ / / / / / / /
+
+i / 6 i = / / /
+/ / ] / [ / 0 /
+0 / o / o / / /
+/ / / / u / / /
+
+0 / / / / / / /
+0 / / [ / / ] /
+/ [ / / / / / /
+/ / / / / / / /
+
+t / w t o / / /
+/ / t / o / [ /
+p / i / t / / /
+/ / / / / / t y
+
+u / / / / / / /
+/ / t / u / o /
+i / / / / / / /
+/ / / / / / / /
+
+t / w t o / / /
+/ / t / o / [ /
+p / i / t / / /
+/ / / / / / t y
+
+u / / / / / / / 
+/ / / / / / / /
+i / / / / / / /
+/ / w / / / w /
+
+t / w t o / / /
+/ / t / o / [ /
+p / i / t / / /
+/ / / / / / t y
+
+u / / / / / / /
+/ / t / u / o /
+i / / / / / / /
+/ / / / / / / /
+
+t / w t o / / /
+/ / t / o / [ /
+p / i / t / / /
+/ / / / / / t y
+
+u / / / / / / /
+/ / / / / / / /
+i / / / / / / /
+/ / / / / / / /
+
+# End of song yay!

@@ -1,0 +1,37 @@
+# Precede comments with pound symbol
+# Feel free to leave blank lines and spaces for organization
+# I like to put every measure on a new line
+
+# Use / as rest
+# Use ~ for tab key
+# Set variables with preceding $
+
+# Song of Storms
+
+$speed = 75
+
+w r o _ _ _ w r o _ _ _
+p _ / [ p [ p i y _ _ _
+
+y _ w _ r t y _ _ _ _ _
+y _ w _ r t e _ _ _ _ _
+
+w r o _ _ _ w r o _ _ _
+p _ / [ p [ p i y _ _ _
+
+y _ w _ r t y _ _ _ y _
+w _ _ _ _ _ _ _ _ _ _ /
+
+w r o _ _ _ w r o _ _ _
+p _ / [ p [ p i y _ _ _
+
+y _ w _ r t y _ _ _ _ _
+y _ w _ r t e _ _ _ _ _
+
+w r o _ _ _ w r o _ _ _
+p _ / [ p [ p i y _ _ _
+
+y _ w _ r t y _ _ _ y _
+w _ _ _ _ _ _ _ _ _ _ /
+
+# End of song yay!
